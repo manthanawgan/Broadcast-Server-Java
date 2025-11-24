@@ -62,9 +62,8 @@ Explain your implementation approach and key learnings here. Suggested outline:
 ## Screenshots / Evidence
 
 Add visual proof of execution here:
-- ![Server running](images\server.png)
-- ![Client 1 connected](images\client1.png)
-- ![Client 2 connected](images\client2.png)
+- ![Server running](images/server.png)
+- ![Client 1 connected](images/client1.png)
+- ![Client 2 connected](images/client2.png)
 
-(Replace the placeholder paths with your actual image paths once captured.)
 
