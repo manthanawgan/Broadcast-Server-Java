@@ -43,11 +43,7 @@ java -jar target/broadcast-server-1.0.0-SNAPSHOT-jar-with-dependencies.jar conne
 ## Project Report *(Comprehensive documentation including approach, implementation, results, and analysis)*
 
 ### Description*
-Explain your implementation approach and key learnings here. Suggested outline:
-1. **Approach:** summarise how the server and client were structured, any architectural choices, and libraries used.
-2. **Implementation:** highlight noteworthy classes/methods, concurrency handling, and CLI UX considerations.
-3. **Results:** describe test scenarios (e.g., multiple clients broadcasting simultaneously) and observed behaviour.
-4. **Analysis & Learnings:** capture challenges, trade-offs (e.g., choosing Java-WebSocket), and ideas for future enhancements (auth, history, persistence, GUI).
+This project implements a Java-based broadcast server for a college assignment, emphasizing reliable TCP fan-out, straightforward debugging, and maintainable modular code. The work highlights a methodical approach from requirements framing to testing plus reflections on concurrency trade-offs and future scalability ideas.
 
 ---
 
